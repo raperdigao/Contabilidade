@@ -278,6 +278,7 @@ body {
     font-family: var(--dosis);
     font-weight: bold;
     font-size: 1em;
+    
 
 }
 
@@ -286,10 +287,19 @@ body {
     flex-direction: column;
     justify-content: center;
     padding: 10px;
+    border-radius: 25%;
 }
 
+.containericones{
+    display: flex;
+    flex-direction: row;
+    
+}
+.iconessocial{
+   
+
+    width: 40px;
+    height: 40px;
+}
 /* Formatação da página Quem Somos */
 
-.containerquemsomos{
-
-}
