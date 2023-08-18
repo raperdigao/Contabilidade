@@ -301,5 +301,16 @@ body {
     width: 40px;
     height: 40px;
 }
+
+
 /* Formatação da página Quem Somos */
 
+.faleconosco{
+    display: flex;
+    flex-direction: row;
+    
+}
+.imgwhatsapp{
+    width: 40px;
+    height: 40px;
+}
